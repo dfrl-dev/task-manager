@@ -1,0 +1,1 @@
+A basic task manager project.  Created to learn MongoDB, Node.js, basic authentication and more!
